@@ -15,8 +15,6 @@ This project is a simple login page with a modern UI built using **HTML** and **
 1. Open `index.html` in a browser  
 2. Or deploy it on **GitHub Pages** for live hosting  
 
-## Live Demo
-[Click here](https://suryanag9099.github.io/login-page/) *(Update with actual link once deployed)*  
 
 ## Author
 **Surya Nag**  
